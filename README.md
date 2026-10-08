@@ -1,4 +1,3 @@
-
 # AI Study Assistant
 
 ## Project Description
